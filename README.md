@@ -1,5 +1,6 @@
 # α-social
 Design fiction project for the class Intro to Ubiquitous Computing
+
 Read the comic [here](https://github.com/arch-19/alpha-social/blob/master/Alpha_Social.pdf)!
 
 ## Project Summary
