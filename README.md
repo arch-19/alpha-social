@@ -1,11 +1,14 @@
-# alpha-social
+# α-social
 Design fiction project for the class Intro to Ubiquitous Computing
+Read the comic [here](https://github.com/arch-19/alpha-social/Alpha_Social.pdf)!
 
 ## Project Summary
 α-Social is a design fiction depicting a future where augmented reality (AR) technology has become ubiquitous and all-encompassing in scope. We explore the sociotechnical implications of the adoption of such a technology by transcribing modern trends and implications to this designed future. The effects of social media filter bubbles, gossiping technology, alpha convenience, and personalization in this AR future are examined.
 
 ## Design Process
-
+<img src="https://github.com/arch-19/alpha-social/images/character-sketch.jpg" width="300">
+<img src="https://github.com/arch-19/alpha-social/images/world-sketches.jpg" width="300>
+                                                                                    
 ### Preliminary Sketches
 
 The design process of creating α-Social started out by initially listing down all the social media paradigms that are existing in the world today. We imagined a world  in which everyday objects are seamlessly integrated with the Internet. Given the rapid development of IoT, this vision seems quite conceivable. We examined the impacts of these pervasive ubiquitous technologies on the people who have access to such technology and those who do not. We discussed the physical, social, personal and economic consequences of such technology. 
